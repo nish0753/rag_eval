@@ -1,0 +1,59 @@
+# Environment variables & secrets
+.env
+.env.*
+!.env.example
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual environments (uv, venv, conda)
+.venv
+.venv/
+.venv.nosync
+.venv.nosync/
+venv/
+env/
+ENV/
+
+# DeepEval caches & runs
+.deepeval/
+.deepeval
+.deepeval*
+
+# Vector database & persistence (ChromaDB, SQLite)
+chroma_db/
+chroma_store/
+.chroma/
+chroma/
+*.sqlite3
+*.db
+
+# Testing & static analysis
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Operating System files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+
+# IDEs & Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/

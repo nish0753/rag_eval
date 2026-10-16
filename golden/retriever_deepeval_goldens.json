@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g001",
+    "query": "What functionality does the golden dataset generator serve in extracting and formatting SQL queries into a CSV file?",
+    "ideal_answer": "The golden dataset generator extracts 20 properly formed SQL queries and formats them into a CSV file, named Goldenheart.csv. It also includes additional information, such as the expected number of rows for each query.",
+    "source": "Session 3"
+  },
+  {
+    "id": "g002",
+    "query": "Assess the feasibility of real-time feedback mechanisms for evaluating chatbot accuracy post-deployment.",
+    "ideal_answer": "Real-time feedback mechanisms, such as thumbs up and thumbs down options, are feasible for evaluating chatbot accuracy post-deployment. These mechanisms allow users to provide immediate feedback on the correctness of responses, enabling developers to identify patterns of mistakes and areas for improvement. While it may not be possible to have the correct answer for every user query, aggregated feedback can serve as a valuable signal to assess the chatbot's performance over time. This approach helps in continuously refining the chatbot's accuracy based on user interactions.",
+    "source": "Session 7"
+  },
+  {
+    "id": "g003",
+    "query": "Examine the role of competitive leaderboards in accelerating breakthroughs in AI model innovation.",
+    "ideal_answer": "Competitive leaderboards play a crucial role in accelerating breakthroughs in AI model innovation by facilitating discovery and publicity. They allow researchers and developers to monitor the performance of various models, identifying those that outperform others. This competitive environment encourages labs to innovate rapidly, as seen with the emergence of new models that quickly rise to the top of benchmarks. The visibility gained through leaderboards not only enhances a lab's reputation but also attracts attention from stakeholders, including governments, which may intervene if a model poses risks, as demonstrated with Fable 5. Overall, leaderboards serve as a vital tool for fostering innovation and driving advancements in AI.",
+    "source": "Session 7"
+  },
+  {
+    "id": "g004",
+    "query": "What specific coding concepts and decision-making strategies were covered in today's session, and how can they be applied in future activities?",
+    "ideal_answer": "Today's session covered coding concepts related to the Sonnet model and decision-making strategies, including the idea of voting when consensus is needed. These concepts can be applied in future activities by encouraging collaborative decision-making and utilizing stable models like Sonnet for coding projects. Additionally, participants are encouraged to practice coding independently with the provided code and explore other applications, which will enhance their understanding and skills.",
+    "source": "Session 6"
+  },
+  {
+    "id": "g005",
+    "query": "How do model evaluations differ from application evaluations in LLM assessments?",
+    "ideal_answer": "Model evaluations focus on assessing the performance of the language models themselves, such as those from OpenAI or Anthropic, and help determine which model might be best suited for a project. In contrast, application evaluations assess how well these models perform in specific applications or use cases. Understanding both types is crucial, but application evaluations are particularly important for practical implementation.",
+    "source": "Session 1"
+  }
+]
